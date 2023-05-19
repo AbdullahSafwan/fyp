@@ -1,0 +1,452 @@
+,Gender,Age,Father_Occupation,Intermediate_College,Current_Attendance,Self_Study_Time,Living_with_Family_or_Bachelor,Supplements_in_recent result,No_of_Family_Members,Father_Status,Free_Time,Admission,Accommodation,Internet,Gadgets,GPA
+0,Male,18,Teacher,Govt.,100.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.3
+1,Female,18,Teacher,Govt.,89.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+2,Male,18,Engineer,Govt.,87.0,5h to 8h,Bachelor,0,5,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",2.7
+3,Male,18,Doctor,Private,71.0,3h to 5h,Bachelor,0,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+4,Male,20,Other,Govt.,82.0,5h to 8h,Family,0,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.0
+5,Male,18,Businessman,Govt.,83.0,8h+,Bachelor,0,10,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",4.0
+6,Male,20,Engineer,Govt.,73.0,3h to 5h,Bachelor,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+7,Female,18,Other,Govt.,93.0,5h to 8h,Family,0,5,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",4.0
+8,Female,18,Other,Govt.,93.0,1h to 1.5h,Family,0,9,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+9,Male,19,Other,Private,88.0,1.5h to 3h,Bachelor,0,5,Alive,4h to 6h,Merit,Rented,Yes,Mobile,4.0
+10,Male,21,Other,Private,84.0,1.5h to 3h,Bachelor,0,7,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",4.0
+11,Male,19,Teacher,Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer",4.0
+12,Male,18,Not Applicable,Govt.,84.0,1h to 1.5h,Family,0,3,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.3
+13,Male,18,Businessman,Private,87.0,5h to 8h,Family,0,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",2.7
+14,Male,19,Businessman,Private,76.0,3h to 5h,Family,0,5,Alive,6h to 10h,Merit,Owned,Yes,Mobile,2.7
+15,Male,19,Doctor,Govt.,76.0,1.5h to 3h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.7
+16,Female,19,Other,Govt.,77.0,8h+,Bachelor,0,7,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.0
+17,Male,20,Engineer,Private,78.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,Mobile,3.3
+18,Male,20,Other,Govt.,76.0,5h to 8h,Bachelor,0,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.0
+19,Male,18,Businessman,Private,87.0,1.5h to 3h,Family,0,5,Alive,4h to 6h,Merit,Rented,Yes,Mobile,3.3
+20,Male,19,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,88.0,1.5h to 3h,Bachelor,0,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.7
+21,Male,20,Teacher,Govt.,89.0,5h to 8h,Family,0,5,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.7
+22,Male,18,Engineer,Govt.,85.0,3h to 5h,Family,0,7,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",2.3
+23,Male,19,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,89.0,3h to 5h,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,Mobile,4.0
+24,Male,20,Teacher,Govt.,86.6,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer",3.0
+25,Male,20,Engineer,Private,71.0,8h+,Family,0,7,Alive,4h to 6h,Self-Finance,Owned,Yes,Mobile,4.0
+26,Female,18,Other,Private,92.0,3h to 5h,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop",3.7
+27,Male,18,Other,Private,87.0,1.5h to 3h,Family,0,8,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.3
+28,Male,19,Doctor,Private,87.0,5h to 8h,Family,0,9,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.3
+29,Male,19,Businessman,Private,76.0,1.5h to 3h,Bachelor,0,3,Decease,6h to 10h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.7
+30,Male,19,Teacher,Private,89.0,1.5h to 3h,Family,0,7,Alive,6h to 10h,Self-Finance,Owned,Yes,"Mobile, Laptop, Printer",3.7
+31,Male,19,Teacher,Private,79.0,8h+,Bachelor,0,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",4.0
+32,Male,19,Businessman,Govt.,89.0,3h to 5h,Bachelor,0,5,Alive,4h to 6h,Self-Finance,Rented,Yes,"Mobile, Laptop",4.0
+33,Male,21,Engineer,Govt.,78.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.0
+34,Male,20,Businessman,Govt.,81.0,8h+,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.3
+35,Male,18,Engineer,Private,71.0,5h to 8h,Family,0,7,Alive,6h to 10h,Self-Finance,Owned,Yes,"Mobile, Laptop",3.3
+36,Male,18,Teacher,Private,81.0,1.5h to 3h,Family,1,3,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop",4.0
+37,Male,20,Teacher,Private,71.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,Mobile,2.7
+38,Male,18,Other,Govt.,76.0,3h to 5h,Family,0,8,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop, Printer",2.7
+39,Female,18,Businessman,Govt.,77.0,1.5h to 3h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.7
+40,Male,19,Not Applicable,Govt.,55.0,5h to 8h,Family,0,9,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+41,Male,20,Engineer,Private,76.0,1.5h to 3h,Family,0,9,Alive,6h to 10h,Self-Finance,Owned,Yes,"Mobile, Laptop",2.7
+42,Male,19,Teacher,Private,77.0,5h to 8h,Bachelor,0,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+43,Male,19,Engineer,Private,70.0,1.5h to 3h,Family,0,5,Alive,6h to 10h,Self-Finance,Owned,No,Mobile,3.3
+44,Male,19,Doctor,Govt.,76.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.3
+45,Male,20,Other,Private,77.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.3
+46,Male,19,Other,Private,100.0,3h to 5h,Family,0,6,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.7
+47,Male,18,Businessman,Govt.,85.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,Mobile,3.3
+48,Female,18,Teacher,Govt.,84.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.74
+49,Male,20,Unemployed,Govt.,83.0,3h to 5h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.81
+50,Male,21,Businessman,Govt.,76.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.77
+51,Male,20,Not Applicable,Govt.,72.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",2.73
+52,Male,19,Engineer,Govt.,77.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.11
+53,Male,20,Retired,Govt.,80.0,1.5h to 3h,Family,0,4,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.41
+54,Male,19,Teacher,Govt.,65.0,3h to 5h,Bachelor,0,14,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.32
+55,Male,20,Businessman,Private,75.0,1.5h to 3h,Bachelor,0,8,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Computer",2.51
+56,Male,19,Other,Govt.,76.0,1h to 1.5h,Bachelor,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.71
+57,Female,20,Businessman,Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.74
+58,Female,20,Businessman,Govt.,80.0,3h to 5h,Family,0,6,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.31
+59,Male,18,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,83.0,1.5h to 3h,Family,1,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.32
+60,Male,19,Other,Private,88.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.18
+61,Male,20,Not Applicable,Govt.,70.0,1.5h to 3h,Family,0,3,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.64
+62,Male,17,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,78.0,8h+,Family,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer, Printer",2.9
+63,Male,19,Teacher,Private,80.0,3h to 5h,Family,1,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",2.97
+64,Male,21,Other,Private,83.0,1h to 1.5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",2.97
+65,Female,19,Retired,Govt.,85.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,No,Mobile,3.74
+66,Male,19,Engineer,Private,80.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.46
+67,Male,19,Businessman,Govt.,73.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.79
+68,Female,20,Businessman,Private,78.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.76
+69,Female,19,Not Applicable,Govt.,80.0,8h+,Family,0,2,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.78
+70,Male,18,Labor,Private,80.0,1.5h to 3h,Bachelor,0,8,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.43
+71,Male,20,Other,Private,86.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.79
+72,Male,22,Doctor,Private,83.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Printer",3.27
+73,Female,19,Other,Govt.,80.0,1h to 1.5h,Family,0,4,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.81
+74,Male,20,Businessman,Private,82.0,1.5h to 3h,Bachelor,1,5,Alive,6h to 10h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.32
+75,Female,20,Other,Govt.,86.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.68
+76,Female,18,Teacher,Private,78.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.09
+77,Male,19,Other,Private,77.0,1.5h to 3h,Bachelor,0,4,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",2.21
+78,Female,18,Doctor,Private,80.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.71
+79,Male,22,Other,Govt.,80.0,1h to 1.5h,Family,0,6,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",2.85
+80,Male,22,Other,Govt.,80.0,1h to 1.5h,Family,1,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.32
+81,Male,22,Other,Govt.,80.0,1h to 1.5h,Family,4,6,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.32
+82,Male,22,Unemployed,Govt.,78.0,3h to 5h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.15
+83,Male,22,Unemployed,Govt.,78.0,3h to 5h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.82
+84,Male,22,Unemployed,Govt.,78.0,3h to 5h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.93
+85,Male,23,Retired,Govt.,75.0,3h to 5h,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer, Printer",3.65
+86,Male,23,Retired,Govt.,75.0,3h to 5h,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer, Printer",3.74
+87,Male,23,Retired,Govt.,75.0,1h to 1.5h,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer, Printer",3.46
+88,Male,21,Other,Private,90.0,1h to 1.5h,Family,0,5,Decease,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop, Printer",4.0
+89,Male,21,Other,Private,90.0,1h to 1.5h,Family,0,5,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.91
+90,Male,21,Other,Private,90.0,1h to 1.5h,Family,0,5,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.83
+91,Male,20,Other,Private,68.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.0
+92,Male,20,Other,Private,68.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.45
+93,Male,20,Other,Private,68.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",2.33
+94,Male,23,Other,Govt.,87.0,3h to 5h,Family,0,6,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+95,Male,23,Other,Govt.,87.0,3h to 5h,Family,2,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+96,Male,23,Other,Govt.,87.0,3h to 5h,Family,3,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+97,Male,21,Doctor,Govt.,75.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,3.0
+98,Male,21,Doctor,Govt.,75.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,Mobile,2.75
+99,Male,21,Doctor,Govt.,75.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,2.51
+100,Female,21,Unemployed,Private,67.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer",3.85
+101,Female,21,Unemployed,Private,67.0,1h to 1.5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Computer",3.65
+102,Female,21,Unemployed,Private,67.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer",3.21
+103,Male,20,Other,Govt.,72.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+104,Male,20,Other,Govt.,72.0,1.5h to 3h,Family,1,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+105,Male,20,Other,Govt.,72.0,1.5h to 3h,Family,3,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+106,Male,21,Retired,Private,90.0,1h to 1.5h,Family,0,8,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.0
+107,Male,21,Retired,Private,90.0,1h to 1.5h,Family,0,8,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.35
+108,Male,21,Retired,Private,90.0,1h to 1.5h,Family,0,8,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.01
+109,Male,22,Unemployed,Govt.,80.0,3h to 5h,Bachelor,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.0
+110,Male,22,Unemployed,Govt.,80.0,3h to 5h,Bachelor,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.45
+111,Male,22,Unemployed,Govt.,80.0,3h to 5h,Bachelor,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",2.89
+112,Male,19,Retired,Govt.,90.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",4.0
+113,Male,19,Retired,Govt.,90.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.86
+114,Male,19,Retired,Govt.,90.0,3h to 5h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.81
+115,Male,21,Engineer,Govt.,75.0,1h to 1.5h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.5
+116,Male,21,Engineer,Govt.,75.0,0h,Family,0,4,Alive,10h+,Merit,Owned,Yes,"Mobile, Laptop",3.02
+117,Male,21,Engineer,Govt.,75.0,0h,Family,1,4,Alive,10h+,Merit,Owned,Yes,"Mobile, Laptop",3.28
+118,Male,22,Other,Private,78.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",4.0
+119,Male,22,Other,Private,78.0,3h to 5h,Bachelor,0,6,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.98
+120,Male,22,Other,Private,78.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.76
+121,Male,21,Other,Govt.,75.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+122,Male,21,Other,Govt.,75.0,1h to 1.5h,Bachelor,1,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+123,Male,21,Other,Govt.,75.0,1h to 1.5h,Bachelor,2,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+124,Male,22,Unemployed,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.0
+125,Male,22,Unemployed,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",2.21
+126,Male,22,Unemployed,Govt.,87.0,1.5h to 3h,Bachelor,4,6,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.28
+127,Male,21,Other,Govt.,75.0,1h to 1.5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Computer, Printer",3.5
+128,Male,21,Other,Govt.,75.0,1h to 1.5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Computer, Printer",3.16
+129,Male,21,Other,Govt.,75.0,1h to 1.5h,Family,2,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Computer, Printer",3.28
+130,Male,23,Other,Govt.,87.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.28
+131,Male,23,Other,Govt.,87.0,3h to 5h,Family,2,6,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.28
+132,Male,23,Other,Govt.,87.0,0h,Family,2,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.28
+133,Male,22,Unemployed,Govt.,80.0,3h to 5h,Bachelor,0,5,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.35
+134,Male,22,Unemployed,Govt.,80.0,3h to 5h,Bachelor,0,5,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.38
+135,Male,22,Unemployed,Govt.,80.0,3h to 5h,Bachelor,2,5,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.28
+136,Male,22,Other,Private,70.0,0h,Family,0,3,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",4.0
+137,Male,22,Other,Private,70.0,0h,Family,0,3,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.72
+138,Male,22,Other,Private,70.0,0h,Family,1,3,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.28
+139,Male,22,Unemployed,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+140,Male,22,Unemployed,Govt.,87.0,3h to 5h,Bachelor,2,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+141,Male,22,Unemployed,Govt.,87.0,3h to 5h,Bachelor,4,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+142,Male,23,Other,Govt.,80.0,3h to 5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",4.0
+143,Male,23,Other,Govt.,80.0,3h to 5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.59
+144,Male,23,Other,Govt.,80.0,3h to 5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.1
+145,Female,20,Labor,Private,70.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,3.35
+146,Female,20,Labor,Private,70.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,3.5
+147,Female,20,Labor,Private,70.0,3h to 5h,Family,2,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,3.42
+148,Male,21,Retired,Govt.,67.07,1.5h to 3h,Family,0,9,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+149,Male,21,Retired,Govt.,67.07,1.5h to 3h,Family,0,9,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.88
+150,Male,21,Retired,Govt.,67.07,1.5h to 3h,Family,0,9,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.25
+151,Male,22,Businessman,Private,75.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+152,Male,22,Businessman,Private,75.0,0h,Family,2,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+153,Male,22,Businessman,Private,75.0,1h to 1.5h,Family,2,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+154,Male,19,Other,Govt.,73.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.5
+155,Male,19,Other,Govt.,73.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.39
+156,Male,19,Other,Govt.,73.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.2
+157,Female,22,Businessman,Private,78.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.0
+158,Female,22,Businessman,Private,78.0,3h to 5h,Bachelor,1,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.28
+159,Female,22,Businessman,Private,78.0,3h to 5h,Bachelor,3,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.28
+160,Male,23,Unemployed,Govt.,87.0,3h to 5h,Bachelor,0,7,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop, Printer",3.28
+161,Male,23,Unemployed,Govt.,87.0,1h to 1.5h,Bachelor,2,7,Alive,4h to 6h,Self-Finance,Rented,Yes,"Mobile, Laptop, Printer",3.28
+162,Male,23,Unemployed,Govt.,87.0,1h to 1.5h,Bachelor,4,7,Alive,4h to 6h,Self-Finance,Rented,Yes,"Mobile, Laptop, Printer",3.28
+163,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,70.0,1.5h to 3h,Family,0,3,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+164,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,70.0,1h to 1.5h,Family,0,3,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.81
+165,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,70.0,1.5h to 3h,Family,0,3,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.59
+166,Male,22,Businessman,Govt.,78.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.28
+167,Male,22,Businessman,Govt.,78.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.28
+168,Male,22,Businessman,Govt.,78.0,1h to 1.5h,Bachelor,4,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.28
+169,Male,18,Other,Govt.,71.0,1h to 1.5h,Family,0,2,Decease,10h+,Merit,Rented,No,Mobile,4.0
+170,Male,18,Other,Govt.,71.0,1h to 1.5h,Family,0,2,Decease,10h+,Merit,Rented,No,Mobile,3.67
+171,Male,18,Other,Govt.,71.0,1h to 1.5h,Family,0,2,Decease,10h+,Merit,Rented,No,Mobile,3.81
+172,Male,22,Other,Private,78.0,3h to 5h,Bachelor,0,5,Alive,4h to 6h,Self-Finance,Owned,Yes,"Mobile, Laptop, Printer",2.15
+173,Male,22,Other,Private,78.0,3h to 5h,Bachelor,2,5,Alive,4h to 6h,Self-Finance,Owned,Yes,"Mobile, Laptop, Printer",2.15
+174,Male,22,Other,Private,78.0,3h to 5h,Bachelor,4,5,Alive,4h to 6h,Self-Finance,Owned,Yes,"Mobile, Laptop, Printer",2.15
+175,Male,23,Unemployed,Private,87.0,3h to 5h,Family,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+176,Male,23,Unemployed,Private,87.0,1h to 1.5h,Family,1,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+177,Male,23,Unemployed,Private,87.0,1h to 1.5h,Family,3,7,Alive,10h+,Merit,Rented,Yes,"Mobile, Laptop",3.28
+178,Female,22,Not Applicable,Govt.,75.0,3h to 5h,Family,0,5,Decease,3h to 4h,Merit,Rented,Yes,Mobile,4.0
+179,Female,22,Not Applicable,Govt.,75.0,1h to 1.5h,Family,0,5,Decease,4h to 6h,Merit,Rented,Yes,Mobile,3.89
+180,Female,22,Not Applicable,Govt.,75.0,3h to 5h,Family,0,5,Decease,3h to 4h,Merit,Rented,Yes,Mobile,3.76
+181,Female,20,Retired,Govt.,75.4,5h to 8h,Family,0,3,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+182,Female,20,Retired,Govt.,75.4,5h to 8h,Family,0,3,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.88
+183,Female,20,Retired,Govt.,75.4,1h to 1.5h,Family,0,3,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.66
+184,Male,22,Businessman,Govt.,74.0,1h to 1.5h,Bachelor,0,5,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+185,Male,22,Businessman,Govt.,74.0,3h to 5h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+186,Male,22,Businessman,Govt.,74.0,1h to 1.5h,Bachelor,4,5,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+187,Male,21,Retired,Govt.,70.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.5
+188,Male,21,Retired,Govt.,70.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.19
+189,Male,21,Retired,Govt.,70.0,1h to 1.5h,Family,1,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.28
+190,Male,22,Other,Govt.,82.0,3h to 5h,Bachelor,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.85
+191,Male,22,Other,Govt.,82.0,3h to 5h,Bachelor,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.88
+192,Male,22,Other,Govt.,82.0,3h to 5h,Bachelor,1,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.36
+193,Male,23,Businessman,Private,78.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.28
+194,Male,23,Businessman,Private,78.0,1.5h to 3h,Family,2,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.28
+195,Male,23,Businessman,Private,78.0,3h to 5h,Family,4,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.28
+196,Male,22,Other,Govt.,74.0,1.5h to 3h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.28
+197,Male,22,Other,Govt.,74.0,1.5h to 3h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.64
+198,Male,22,Other,Govt.,74.0,1.5h to 3h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.27
+199,Male,21,Teacher,Govt.,57.0,1h to 1.5h,Bachelor,4,15,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+200,Male,21,Teacher,Govt.,57.0,1h to 1.5h,Bachelor,1,15,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+201,Male,21,Teacher,Govt.,57.0,1h to 1.5h,Bachelor,1,15,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+202,Male,21,Other,Govt.,60.0,5h to 8h,Family,0,10,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.5
+203,Male,21,Other,Govt.,60.0,5h to 8h,Family,0,10,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.75
+204,Male,21,Other,Govt.,60.0,1h to 1.5h,Family,0,10,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.31
+205,Male,22,Unemployed,Govt.,79.0,5h to 8h,Bachelor,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",4.0
+206,Male,22,Unemployed,Govt.,79.0,1h to 1.5h,Bachelor,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.86
+207,Male,22,Unemployed,Govt.,79.0,1h to 1.5h,Bachelor,1,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+208,Male,20,Labor,Govt.,85.0,1.5h to 3h,Bachelor,0,11,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.94
+209,Male,20,Labor,Govt.,85.0,1.5h to 3h,Bachelor,0,11,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.94
+210,Male,20,Labor,Govt.,85.0,1.5h to 3h,Bachelor,0,11,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.94
+211,Female,21,Other,Govt.,83.0,8h+,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",4.0
+212,Female,21,Other,Govt.,83.0,1h to 1.5h,Family,0,4,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.42
+213,Female,21,Other,Govt.,83.0,1h to 1.5h,Family,0,4,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.83
+214,Female,21,Other,Govt.,83.0,1h to 1.5h,Family,0,4,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.831
+215,Female,21,Other,Govt.,83.0,1h to 1.5h,Family,0,4,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.42
+216,Male,22,Labor,Govt.,73.0,1h to 1.5h,Bachelor,1,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.33
+217,Male,22,Labor,Govt.,73.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.87
+218,Male,22,Labor,Govt.,73.0,1.5h to 3h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.08
+219,Male,22,Labor,Govt.,73.0,1h to 1.5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.33
+220,Male,22,Labor,Govt.,73.0,1.5h to 3h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.77
+221,Female,22,Teacher,Govt.,97.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.94
+222,Female,22,Teacher,Govt.,97.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",4.0
+223,Female,22,Teacher,Govt.,97.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.75
+224,Female,22,Teacher,Govt.,97.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.68
+225,Female,22,Teacher,Govt.,97.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.66
+226,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,81.0,5h to 8h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.94
+227,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,81.0,3h to 5h,Family,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.75
+228,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,81.0,5h to 8h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.7
+229,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,81.0,1h to 1.5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.77
+230,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,81.0,1h to 1.5h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.56
+231,Male,23,Not Applicable,Govt.,87.0,8h+,Family,0,3,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",4.0
+232,Male,23,Not Applicable,Govt.,87.0,8h+,Family,0,3,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",4.0
+233,Male,23,Not Applicable,Govt.,87.0,8h+,Family,0,3,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",4.0
+234,Male,23,Not Applicable,Govt.,87.0,8h+,Family,0,3,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.95
+235,Male,23,Not Applicable,Govt.,87.0,8h+,Family,0,3,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.87
+236,Male,24,Not Applicable,Govt.,80.0,3h to 5h,Bachelor,0,7,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.91
+237,Male,24,Not Applicable,Govt.,80.0,3h to 5h,Bachelor,0,7,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.41
+238,Male,24,Not Applicable,Govt.,80.0,3h to 5h,Bachelor,0,7,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.83
+239,Male,24,Not Applicable,Govt.,80.0,3h to 5h,Bachelor,0,7,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.75
+240,Male,24,Not Applicable,Govt.,80.0,3h to 5h,Bachelor,0,7,Decease,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.82
+241,Male,23,Other,Govt.,76.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.94
+242,Male,23,Other,Govt.,76.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.89
+243,Male,23,Other,Govt.,76.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.68
+244,Male,23,Other,Govt.,76.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.65
+245,Male,23,Other,Govt.,76.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.05
+246,Male,24,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,88.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.94
+247,Male,24,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,88.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",4.0
+248,Male,24,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,88.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.93
+249,Male,24,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,88.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.89
+250,Male,24,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,88.0,8h+,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.95
+251,Male,22,Not Applicable,Govt.,74.0,3h to 5h,Bachelor,0,8,Decease,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.24
+252,Male,22,Not Applicable,Govt.,74.0,3h to 5h,Bachelor,0,8,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.54
+253,Male,22,Not Applicable,Govt.,74.0,3h to 5h,Bachelor,0,8,Decease,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.68
+254,Male,22,Not Applicable,Govt.,74.0,3h to 5h,Bachelor,0,8,Decease,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.01
+255,Male,22,Not Applicable,Govt.,74.0,3h to 5h,Bachelor,0,8,Decease,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",2.85
+256,Male,21,Engineer,Private,85.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,Mobile,3.63
+257,Male,21,Engineer,Private,85.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,4.0
+258,Male,21,Engineer,Private,85.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,3.75
+259,Male,21,Engineer,Private,85.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,Mobile,3.95
+260,Male,21,Engineer,Private,85.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,Mobile,4.0
+261,Female,20,Businessman,Private,94.0,5h to 8h,Family,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.94
+262,Female,20,Businessman,Private,94.0,5h to 8h,Family,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.88
+263,Female,20,Businessman,Private,94.0,5h to 8h,Family,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.93
+264,Female,20,Businessman,Private,94.0,5h to 8h,Family,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.68
+265,Female,20,Businessman,Private,94.0,5h to 8h,Family,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.85
+266,Female,22,Other,Govt.,83.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.87
+267,Female,22,Other,Govt.,83.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.77
+268,Female,22,Other,Govt.,83.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+269,Female,22,Other,Govt.,83.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.52
+270,Female,22,Other,Govt.,83.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.78
+271,Male,22,Businessman,Govt.,88.0,1.5h to 3h,Bachelor,1,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.56
+272,Male,22,Businessman,Govt.,88.0,1.5h to 3h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.79
+273,Male,22,Businessman,Govt.,88.0,1.5h to 3h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.68
+274,Male,22,Businessman,Govt.,88.0,1.5h to 3h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.48
+275,Male,22,Businessman,Govt.,88.0,1.5h to 3h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.31
+276,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,80.0,1.5h to 3h,Family,0,5,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Computer",3.7
+277,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,80.0,1.5h to 3h,Family,0,5,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Computer",3.95
+278,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,80.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer",3.68
+279,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,80.0,1.5h to 3h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Computer",3.52
+280,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,80.0,1.5h to 3h,Family,0,5,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Computer",3.02
+281,Female,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.76
+282,Female,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.88
+283,Female,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.83
+284,Female,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.65
+285,Female,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,84.0,3h to 5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.75
+286,Male,23,Other,Govt.,85.0,8h+,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",4.0
+287,Male,23,Other,Govt.,85.0,8h+,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.96
+288,Male,23,Other,Govt.,85.0,8h+,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.43
+289,Male,23,Other,Govt.,85.0,8h+,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.93
+290,Male,23,Other,Govt.,85.0,8h+,Family,0,8,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.85
+291,Male,21,Other,Private,80.0,3h to 5h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.68
+292,Male,21,Other,Private,80.0,1.5h to 3h,Bachelor,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.38
+293,Male,21,Other,Private,80.0,1.5h to 3h,Bachelor,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.85
+294,Male,21,Other,Private,80.0,1.5h to 3h,Bachelor,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.63
+295,Male,21,Other,Private,80.0,1.5h to 3h,Bachelor,0,7,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.38
+296,Male,22,Engineer,Private,88.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.44
+297,Male,22,Engineer,Private,88.0,1.5h to 3h,Bachelor,0,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.89
+298,Male,22,Engineer,Private,88.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.65
+299,Male,22,Engineer,Private,88.0,1.5h to 3h,Bachelor,0,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.63
+300,Male,22,Engineer,Private,88.0,1.5h to 3h,Bachelor,0,6,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.62
+301,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,87.0,1h to 1.5h,Family,0,2,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer, Printer",3.94
+302,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,87.0,1h to 1.5h,Family,0,2,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer, Printer",4.0
+303,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,87.0,1h to 1.5h,Family,0,2,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer, Printer",3.85
+304,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,87.0,1h to 1.5h,Family,0,2,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer, Printer",3.88
+305,Male,21,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,87.0,1.5h to 3h,Family,0,2,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer, Printer",3.9
+306,Male,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,73.0,3h to 5h,Bachelor,1,4,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.38
+307,Male,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,73.0,1h to 1.5h,Bachelor,0,4,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.54
+308,Male,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,73.0,3h to 5h,Bachelor,0,4,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.58
+309,Male,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,73.0,1h to 1.5h,Bachelor,0,4,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.4
+310,Male,22,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,73.0,1h to 1.5h,Bachelor,0,4,Decease,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+311,Female,24,Other,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.11
+312,Female,24,Other,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.52
+313,Female,24,Other,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",4.0
+314,Female,24,Other,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.49
+315,Female,24,Other,Govt.,87.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.68
+316,Male,22,Other,Govt.,80.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.29
+317,Male,22,Other,Govt.,80.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.59
+318,Male,22,Other,Govt.,80.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.43
+319,Male,22,Other,Govt.,80.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.43
+320,Male,22,Other,Govt.,80.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.47
+321,Male,21,Other,Govt.,79.0,1.5h to 3h,Family,0,4,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.74
+322,Male,21,Other,Govt.,79.0,1.5h to 3h,Family,0,4,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.51
+323,Male,21,Other,Govt.,79.0,1.5h to 3h,Family,0,4,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.93
+324,Male,21,Other,Govt.,79.0,1.5h to 3h,Family,0,4,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.65
+325,Male,21,Other,Govt.,79.0,1.5h to 3h,Family,0,4,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.66
+326,Female,22,Other,Govt.,87.0,1.5h to 3h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.92
+327,Female,22,Other,Govt.,87.0,1.5h to 3h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.51
+328,Female,22,Other,Govt.,87.0,1.5h to 3h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.75
+329,Female,22,Other,Govt.,87.0,1.5h to 3h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.54
+330,Female,22,Other,Govt.,87.0,1.5h to 3h,Family,0,7,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.21
+331,Male,21,Businessman,Govt.,75.08,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.36
+332,Male,21,Businessman,Govt.,75.08,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.38
+333,Male,21,Businessman,Govt.,75.08,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.5
+334,Male,21,Businessman,Govt.,75.08,3h to 5h,Family,1,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.29
+335,Male,21,Businessman,Govt.,75.08,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.02
+336,Male,22,Retired,Govt.,80.0,3h to 5h,Bachelor,1,11,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.43
+337,Male,22,Retired,Govt.,80.0,3h to 5h,Bachelor,0,11,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.7
+338,Male,22,Retired,Govt.,80.0,3h to 5h,Bachelor,0,11,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.78
+339,Male,22,Retired,Govt.,80.0,3h to 5h,Bachelor,0,11,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.09
+340,Male,22,Retired,Govt.,80.0,3h to 5h,Bachelor,0,11,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.17
+341,Male,23,Other,Private,77.7,1.5h to 3h,Bachelor,1,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.26
+342,Male,23,Other,Private,77.7,5h to 8h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.31
+343,Male,23,Other,Private,77.7,5h to 8h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.4
+344,Male,23,Other,Private,77.7,5h to 8h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.94
+345,Male,23,Other,Private,77.7,5h to 8h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.39
+346,Male,22,Businessman,Govt.,80.0,5h to 8h,Bachelor,1,5,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.21
+347,Male,22,Businessman,Govt.,80.0,3h to 5h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.65
+348,Male,22,Businessman,Govt.,80.0,3h to 5h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.78
+349,Male,22,Businessman,Govt.,80.0,5h to 8h,Bachelor,0,5,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",2.71
+350,Male,22,Businessman,Govt.,80.0,5h to 8h,Bachelor,0,5,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",2.71
+351,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,78.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.76
+352,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,78.0,1.5h to 3h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.65
+353,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,78.0,1h to 1.5h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.68
+354,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,78.0,1h to 1.5h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.44
+355,Male,23,"Services (i.e. Police, Railways, Administrative etc.)",Govt.,78.0,1h to 1.5h,Bachelor,0,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Printer",3.73
+356,Male,21,Businessman,Private,76.0,1.5h to 3h,Family,2,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",2.93
+357,Male,21,Businessman,Private,76.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",2.98
+358,Male,21,Businessman,Private,76.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",3.43
+359,Male,21,Businessman,Private,76.0,1.5h to 3h,Family,1,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",2.93
+360,Male,21,Businessman,Private,76.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Self-Finance,Rented,Yes,"Mobile, Laptop",2.4
+361,Male,21,Other,Govt.,75.0,8h+,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Computer",3.03
+362,Male,21,Other,Govt.,75.0,8h+,Family,1,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Computer",2.91
+363,Male,21,Other,Govt.,75.0,8h+,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Computer",3.23
+364,Male,21,Other,Govt.,75.0,8h+,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Computer",2.57
+365,Male,21,Other,Govt.,75.0,8h+,Family,0,5,Alive,3h to 4h,Self-Finance,Owned,Yes,"Mobile, Laptop, Computer",2.83
+366,Male,22,Businessman,Private,78.0,8h+,Bachelor,2,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.93
+367,Male,22,Businessman,Private,78.0,1h to 1.5h,Bachelor,2,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.93
+368,Male,22,Businessman,Private,78.0,1h to 1.5h,Bachelor,0,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.93
+369,Male,22,Businessman,Private,78.0,3h to 5h,Bachelor,2,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.93
+370,Male,22,Businessman,Private,78.0,1h to 1.5h,Bachelor,2,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.93
+371,Male,21,Other,Govt.,79.0,3h to 5h,Bachelor,2,8,Alive,3h to 4h,Self-Finance,Rented,No,Mobile,2.85
+372,Male,21,Other,Govt.,79.0,3h to 5h,Bachelor,0,8,Alive,3h to 4h,Self-Finance,Rented,No,Mobile,3.26
+373,Male,21,Other,Govt.,79.0,1h to 1.5h,Bachelor,0,8,Alive,6h to 10h,Self-Finance,Rented,No,Mobile,3.18
+374,Male,21,Other,Govt.,79.0,3h to 5h,Bachelor,0,8,Alive,3h to 4h,Self-Finance,Rented,No,Mobile,2.69
+375,Male,21,Other,Govt.,79.0,1h to 1.5h,Bachelor,0,8,Alive,6h to 10h,Self-Finance,Rented,No,Mobile,2.28
+376,Male,23,Engineer,Govt.,74.0,3h to 5h,Bachelor,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.35
+377,Male,23,Engineer,Govt.,74.0,5h to 8h,Bachelor,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.54
+378,Male,23,Engineer,Govt.,74.0,5h to 8h,Bachelor,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.75
+379,Male,23,Engineer,Govt.,74.0,3h to 5h,Bachelor,0,6,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.05
+380,Male,23,Engineer,Govt.,74.0,5h to 8h,Bachelor,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.1
+381,Male,22,Retired,Govt.,75.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.46
+382,Male,22,Retired,Govt.,75.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.72
+383,Male,22,Retired,Govt.,75.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.25
+384,Male,22,Retired,Govt.,75.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.16
+385,Male,22,Retired,Govt.,75.0,3h to 5h,Family,0,5,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.02
+386,Male,21,Other,Govt.,73.0,3h to 5h,Family,0,4,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.79
+387,Male,21,Other,Govt.,73.0,1h to 1.5h,Family,0,4,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.82
+388,Male,21,Other,Govt.,73.0,1h to 1.5h,Family,0,4,Alive,6h to 10h,Merit,Rented,Yes,"Mobile, Laptop",3.28
+389,Male,21,Other,Govt.,73.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.41
+390,Male,21,Other,Govt.,73.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",3.41
+391,Female,21,"Services (i.e. Police, Railways, Administrative etc.)",Private,88.0,1h to 1.5h,Family,0,6,Alive,6h to 10h,Merit,Owned,Yes,"Mobile, Laptop",3.83
+392,Female,21,"Services (i.e. Police, Railways, Administrative etc.)",Private,88.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.66
+393,Female,21,"Services (i.e. Police, Railways, Administrative etc.)",Private,88.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.85
+394,Female,21,"Services (i.e. Police, Railways, Administrative etc.)",Private,88.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.88
+395,Female,21,"Services (i.e. Police, Railways, Administrative etc.)",Private,88.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",2.94
+396,Female,24,"Services (i.e. Police, Railways, Administrative etc.)",Private,78.0,1.5h to 3h,Family,1,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.03
+397,Female,24,"Services (i.e. Police, Railways, Administrative etc.)",Private,78.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.66
+398,Female,24,"Services (i.e. Police, Railways, Administrative etc.)",Private,78.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.35
+399,Female,24,"Services (i.e. Police, Railways, Administrative etc.)",Private,78.0,1.5h to 3h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.04
+400,Female,24,"Services (i.e. Police, Railways, Administrative etc.)",Private,78.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.09
+401,Male,23,Engineer,Govt.,80.0,5h to 8h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.27
+402,Male,23,Engineer,Govt.,80.0,5h to 8h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.93
+403,Male,23,Engineer,Govt.,80.0,3h to 5h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.12
+404,Male,23,Engineer,Govt.,80.0,5h to 8h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.63
+405,Male,23,Engineer,Govt.,80.0,1.5h to 3h,Family,0,4,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.12
+406,Female,22,Businessman,Private,80.0,1.5h to 3h,Family,1,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.56
+407,Female,22,Businessman,Private,80.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.63
+408,Female,22,Businessman,Private,80.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.75
+409,Female,22,Businessman,Private,80.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.42
+410,Female,22,Businessman,Private,80.0,3h to 5h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Printer",3.46
+411,Female,21,Businessman,Govt.,80.0,5h to 8h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.36
+412,Female,21,Businessman,Govt.,80.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.66
+413,Female,21,Businessman,Govt.,80.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.75
+414,Female,21,Businessman,Govt.,80.0,3h to 5h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer",3.33
+415,Female,21,Businessman,Govt.,80.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop, Computer",2.94
+416,Male,22,Other,Govt.,70.0,5h to 8h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.81
+417,Male,22,Other,Govt.,70.0,0h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.7
+418,Male,22,Other,Govt.,70.0,0h,Family,0,7,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.68
+419,Male,22,Other,Govt.,70.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.02
+420,Male,22,Other,Govt.,70.0,1h to 1.5h,Family,0,7,Alive,4h to 6h,Merit,Owned,Yes,"Mobile, Laptop",3.06
+421,Male,24,Other,Govt.,76.0,5h to 8h,Family,1,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.48
+422,Male,24,Other,Govt.,76.0,5h to 8h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.56
+423,Male,24,Other,Govt.,76.0,5h to 8h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.85
+424,Male,24,Other,Govt.,76.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",2.99
+425,Male,24,Other,Govt.,76.0,1h to 1.5h,Family,0,5,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop, Computer, Printer",3.53
+426,Male,22,Engineer,Govt.,75.0,3h to 5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.66
+427,Male,22,Engineer,Govt.,75.0,5h to 8h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.66
+428,Male,22,Engineer,Govt.,75.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.75
+429,Male,22,Engineer,Govt.,75.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.54
+430,Male,22,Engineer,Govt.,75.0,1h to 1.5h,Family,0,6,Alive,3h to 4h,Merit,Owned,Yes,"Mobile, Laptop",3.26
+431,Male,23,Other,Govt.,87.0,3h to 5h,Bachelor,1,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.18
+432,Male,23,Other,Govt.,87.0,1h to 1.5h,Bachelor,1,5,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.18
+433,Male,23,Other,Govt.,87.0,1h to 1.5h,Bachelor,0,5,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.18
+434,Male,23,Other,Govt.,87.0,1h to 1.5h,Bachelor,1,5,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.18
+435,Male,23,Other,Govt.,87.0,3h to 5h,Bachelor,1,5,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop, Computer",3.18
+436,Male,22,Other,Govt.,80.0,1.5h to 3h,Bachelor,2,5,Decease,4h to 6h,Merit,Rented,Yes,Mobile,2.71
+437,Male,22,Other,Govt.,80.0,3h to 5h,Bachelor,0,5,Decease,3h to 4h,Merit,Rented,Yes,Mobile,2.79
+438,Male,22,Other,Govt.,80.0,1h to 1.5h,Bachelor,1,5,Decease,3h to 4h,Merit,Rented,Yes,Mobile,3.25
+439,Male,22,Other,Govt.,80.0,1h to 1.5h,Bachelor,1,5,Decease,4h to 6h,Merit,Rented,Yes,Mobile,2.71
+440,Male,22,Other,Govt.,80.0,1h to 1.5h,Bachelor,0,5,Decease,4h to 6h,Merit,Rented,Yes,Mobile,2.09
+441,Male,15,Not Applicable,Govt.,82.0,3h to 5h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,Laptop,3.7
+442,Male,15,Not Applicable,Govt.,82.0,5h to 8h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,Laptop,3.6
+443,Male,15,Not Applicable,Govt.,82.0,5h to 8h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,Laptop,3.4
+444,Male,15,Not Applicable,Govt.,82.0,1h to 1.5h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,Laptop,3.3
+445,Male,15,Not Applicable,Govt.,82.0,3h to 5h,Family,0,4,Alive,3h to 4h,Merit,Rented,Yes,Laptop,3.5
+446,Male,23,Labor,Govt.,78.0,5h to 8h,Bachelor,0,8,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",3.0
+447,Male,23,Labor,Govt.,78.0,5h to 8h,Bachelor,0,8,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",2.7
+448,Male,23,Labor,Govt.,78.0,5h to 8h,Bachelor,0,8,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",2.5
+449,Male,23,Labor,Govt.,78.0,5h to 8h,Bachelor,0,8,Alive,4h to 6h,Merit,Rented,Yes,"Mobile, Laptop",2.4
+450,Male,23,Labor,Govt.,78.0,1h to 1.5h,Bachelor,1,8,Alive,3h to 4h,Merit,Rented,Yes,"Mobile, Laptop",2.65
